@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilana Polonsky</h1>
-<h3 align="center">A DevOps Engineer at Melio</h3>
+<h3 align="center">A Senior DevOps Engineer/h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
